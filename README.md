@@ -20,6 +20,12 @@ make up
 ```
 tilt up
 ```
+<img src="pictures/TILT-UI.png?raw=true" width="1000">
+
+````
+$ curl localhost
+{"Hello":"World"}
+````
 
 ## Clean dev environment
 ```
